@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
+The open-source infrastructure, along with the utilities and solutions provided by Ant Group, is designed to enhance the efficacy of open-source projects.
+We are committed to building a robust and collaborative environment where developers, contributors, and organizations can innovate, share, and grow together. 
+Our mission is to empower the global open-source community with cutting-edge tools, scalable platforms, and comprehensive resources.
 
-**Here are some ideas to get you started:**
+### About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At Ant Group, we believe in the transformative power of open-source technology. Our open-source infrastructure serves as a foundation for fostering creativity and solving real-world challenges through collaboration. 
+By open-sourcing our innovations, we aim to contribute to the global tech ecosystem and drive progress for everyone.
+
+### What We Offer
+
+- **Scalable Infrastructure:** High-performance systems and platforms to support the development and deployment of open-source projects.
+- **Utilities & Tools:** A wide range of libraries, SDKs, and development kits to streamline workflows and boost productivity.
+- **Solutions for Collaboration:** Resources and guidelines to help communities build, maintain, and govern their projects effectively.
